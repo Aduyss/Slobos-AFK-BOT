@@ -75,7 +75,7 @@
     "place-night": true
   },
   "discord": {
-    "enabled": true,
+    "enabled": false,
     "webhookUrl": " ",
     "events": {
       "connect": true,
