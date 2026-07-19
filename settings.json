@@ -30,7 +30,7 @@
       "repeat": true,
       "repeat-delay": 5000,
       "messages": [
-        "Báo cáo với admin ngay khi thấy hành vi hack / bug| /nv để có night vison| /sellgui để bán đồ nhanh|/shop để mua đồ",
+        "Báo cáo với admin ngay khi thấy hành vi hack / bug| /nv để có night vison| /sellgui để bán đồ nhanh|/shop để mua đồ"
       ]
     },
     "chat-log": true,
