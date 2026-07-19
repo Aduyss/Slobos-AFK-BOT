@@ -76,7 +76,7 @@
   },
   "discord": {
     "enabled": true,
-    "webhookUrl": "https://discord.com/channels/1244644634819428363/1525894899163988120 ",
+    "webhookUrl": " ",
     "events": {
       "connect": true,
       "disconnect": true,
